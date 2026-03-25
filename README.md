@@ -33,13 +33,5 @@ This project addresses a critical infrastructure challenge: **Automated Road Saf
 - **Robustness:** High detection accuracy even in varied lighting and weather conditions.
 - **Scalability:** The system is ready to be deployed as a microservice using the ONNX export.
 
-## 👥 Contributors (Group Members)
-| Name | Roll Number | GitHub Profile |
-| :--- | :--- | :--- |
-| **Yash Dalavi (Lead)** | **202301100017** | [@yash-D-Dalavi](https://github.com/yash-D-Dalavi) |
-| Pratik Bhosle | 202301100005 | [@Pratik-Bhosle] |
-| Arnav Bapat | 202301040249 | [@Arnav-Bapat] |
-| Pritesh Purkar | 202301060010 | [@Pritesh-Purkar] |
-
 ---
 *Developed as part of the Deep Learning Lab at MIT Academy of Engineering, Pune.*
